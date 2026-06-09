@@ -411,6 +411,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Jokester Deck";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_NSAppTransportSecurity = "{ NSAllowsArbitraryLoads = 0; }";
 				INFOPLIST_KEY_UIAppFonts = "CinzelDecorative-Regular.ttf CinzelDecorative-Bold.ttf CrimsonPro-Regular.ttf";
@@ -456,6 +457,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Jokester Deck";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_NSAppTransportSecurity = "{ NSAllowsArbitraryLoads = 0; }";
 				INFOPLIST_KEY_UIAppFonts = "CinzelDecorative-Regular.ttf CinzelDecorative-Bold.ttf CrimsonPro-Regular.ttf";
