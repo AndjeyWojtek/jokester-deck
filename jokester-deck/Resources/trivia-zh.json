@@ -1,0 +1,102 @@
+[
+  {
+    "question": "标准扑克牌一副有多少张？",
+    "correctAnswer": "52",
+    "incorrectAnswers": [
+      "48",
+      "54",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "在红心大战中，哪张牌值13罚分？",
+    "correctAnswer": "黑桃Q",
+    "incorrectAnswers": [
+      "红心A",
+      "方块K",
+      "梅花9"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "哪种游戏按花色从A排到K建堆？",
+    "correctAnswer": "纸牌接龙",
+    "incorrectAnswers": [
+      "拉米",
+      "Go Fish",
+      "战争"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "桥牌中每队有几名玩家？",
+    "correctAnswer": "2",
+    "incorrectAnswers": [
+      "3",
+      "4",
+      "1"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "在疯狂八中，哪张牌可以换花色？",
+    "correctAnswer": "8",
+    "incorrectAnswers": [
+      "A",
+      "K",
+      "2"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "经典拉米两人开局各发几张牌？",
+    "correctAnswer": "10",
+    "incorrectAnswers": [
+      "7",
+      "5",
+      "13"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "在Go Fish中，对方没有你要的点数怎么办？",
+    "correctAnswer": "说「Go Fish」并从牌堆抽牌",
+    "incorrectAnswers": [
+      "跳过回合",
+      "弃牌",
+      "交换身份"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "克里比奇通常玩到多少分？",
+    "correctAnswer": "121",
+    "incorrectAnswers": [
+      "100",
+      "150",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "普通牌有几门花色？",
+    "correctAnswer": "4",
+    "incorrectAnswers": [
+      "3",
+      "5",
+      "6"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "在战争牌中，平局时怎么处理？",
+    "correctAnswer": "各暗放3张再翻1张比大小",
+    "incorrectAnswers": [
+      "重新发牌",
+      "跳过",
+      "双方都输"
+    ],
+    "category": "Board Games"
+  }
+]

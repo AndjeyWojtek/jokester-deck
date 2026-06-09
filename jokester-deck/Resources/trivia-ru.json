@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Сколько карт в стандартной колоде?",
+    "correctAnswer": "52",
+    "incorrectAnswers": [
+      "48",
+      "54",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "В «Червях» какая карта даёт 13 штрафных очков?",
+    "correctAnswer": "Дама пик",
+    "incorrectAnswers": [
+      "Туз червей",
+      "Король бубен",
+      "Девятка треф"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "В какой игре строят стопки от туза до короля по мастям?",
+    "correctAnswer": "Пасьянс",
+    "incorrectAnswers": [
+      "Рамi",
+      "Бридж",
+      "Вист"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Сколько игроков в одной команде в бридже?",
+    "correctAnswer": "2",
+    "incorrectAnswers": [
+      "3",
+      "4",
+      "1"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "В «Дураке» (Crazy Eights) какая карта меняет масть?",
+    "correctAnswer": "Восьмёрка",
+    "incorrectAnswers": [
+      "Туз",
+      "Король",
+      "Двойка"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Сколько карт сдают в классическом Рummy на двоих?",
+    "correctAnswer": "10",
+    "incorrectAnswers": [
+      "7",
+      "5",
+      "13"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "В «Акуле» (Go Fish) что делают, если у соперника нет нужного достоинства?",
+    "correctAnswer": "Говорят «иди лови» и берут из колоды",
+    "incorrectAnswers": [
+      "Пропускают ход",
+      "Сбрасывают карту",
+      "Меняются ролями"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "До скольки очков обычно играют в криббидж?",
+    "correctAnswer": "121",
+    "incorrectAnswers": [
+      "100",
+      "150",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Сколько мастей в обычной колоде?",
+    "correctAnswer": "4",
+    "incorrectAnswers": [
+      "3",
+      "5",
+      "6"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "В «Войне» что происходит при ничьей?",
+    "correctAnswer": "Каждый кладёт 3 карты рубашкой вверх и одну открыто",
+    "incorrectAnswers": [
+      "Пересдают",
+      "Пропускают",
+      "Оба проигрывают"
+    ],
+    "category": "Board Games"
+  }
+]

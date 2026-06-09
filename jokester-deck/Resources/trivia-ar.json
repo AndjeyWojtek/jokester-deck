@@ -1,0 +1,102 @@
+[
+  {
+    "question": "كم عدد الأوراق في مجموعة قياسية؟",
+    "correctAnswer": "52",
+    "incorrectAnswers": [
+      "48",
+      "54",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "في لعبة Hearts، أي ورقة تساوي 13 نقطة عقوبة؟",
+    "correctAnswer": "ملكة البستوني",
+    "incorrectAnswers": [
+      "آس الديناري",
+      "ملك السباتي",
+      "تسعة السباتي"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "في أي لعبة ترتّب الأوراق من الآس إلى الملك حسب اللون؟",
+    "correctAnswer": "السولitaire",
+    "incorrectAnswers": [
+      "رامي",
+      "جسر",
+      "حرب"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "في لعبة Bridge، كم لاعباً في كل فريق؟",
+    "correctAnswer": "2",
+    "incorrectAnswers": [
+      "3",
+      "4",
+      "1"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "في Crazy Eights، أي ورقة تغيّر اللون؟",
+    "correctAnswer": "الثمانية",
+    "incorrectAnswers": [
+      "الآس",
+      "الملك",
+      "الاثنان"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "كم ورقة تُوزَّع في بداية الرامي الكلاسيكي للاعبين اثنين؟",
+    "correctAnswer": "10",
+    "incorrectAnswers": [
+      "7",
+      "5",
+      "13"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "في Go Fish، ماذا يحدث إذا لم يملك الخصم الرتبة المطلوبة؟",
+    "correctAnswer": "يقول «اذهب صُد» ويسحب من الكومة",
+    "incorrectAnswers": [
+      "يتخطى دوره",
+      "يرمي ورقة",
+      "يتبادل الأدوار"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "في Cribbage، إلى كم نقطة تُلعب عادةً؟",
+    "correctAnswer": "121",
+    "incorrectAnswers": [
+      "100",
+      "150",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "كم عدد الألوان في مجموعة عادية؟",
+    "correctAnswer": "4",
+    "incorrectAnswers": [
+      "3",
+      "5",
+      "6"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "في لعبة War، ماذا يحدث عند التعادل؟",
+    "correctAnswer": "يضع كل لاعب 3 أوراق مقلوبة وورقة واحدة مكشوفة",
+    "incorrectAnswers": [
+      "إعادة التوزيع",
+      "تخطي الدور",
+      "خسارة الطرفين"
+    ],
+    "category": "Board Games"
+  }
+]

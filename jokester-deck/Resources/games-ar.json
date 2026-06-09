@@ -1,0 +1,1302 @@
+{
+  "blackjack": {
+    "name": "21",
+    "rules": [
+      "يتسلّم كل لاعب ورقتين ويهدف إلى جمع مجموع قريب من 21 دون تجاوزها.",
+      "الأوراق الرقمية تُحسب بقيمتها، وأوراق الصور بـ10، والآس بـ1 أو 11.",
+      "يمكن أخذ أوراق إضافية واحدة تلو الأخرى أو التوقّف عند الرضا عن المجموع."
+    ],
+    "strategyTips": [
+      "تعلّم متى تتوقّف عند 17 أو أكثر لتجنّب تجاوز الحد.",
+      "انتبه إلى الورقة المكشوفة للاعب المقابل عند اختيار خطوتك التالية.",
+      "تدرّب على مجموعات الأوراق الأساسية حتى تصبح قراراتك سريعة وطبيعية."
+    ]
+  },
+  "rummy": {
+    "name": "رامي",
+    "rules": [
+      "وزّع سبع أوراق لكل لاعب وضع ورقة واحدة مكشوفة لبدء كومة الرمي.",
+      "في دورك، اسحب من المجموعة أو كومة الرمي ثم ارمِ ورقة واحدة.",
+      "اربح بتكوين مجموعات من رتب متطابقة أو تسلسلات متتالية من نفس اللون."
+    ],
+    "strategyTips": [
+      "راقب الأوراق المرمية لتخمين ما يبنيه الخصوم.",
+      "احتفظ بأوراق وسطية مرنة تربط عدة تسلسلات محتملة.",
+      "ارمِ الأوراق غير المدمجة ذات القيمة العالية مبكراً ما لم تكمل تركيبة شبه جاهزة."
+    ]
+  },
+  "hearts": {
+    "name": "قلوب",
+    "rules": [
+      "وزّع كل الأوراق بالتساوي؛ يمرّر كل لاعب ثلاث أوراق قبل بدء كل جولة.",
+      "اتبع اللون إن أمكن؛ أعلى ورقة في اللون المطلوب تفوز بالحيلة.",
+      "تجنّب جمع القلوب وملكة البستوني فهما يضيفان نقاطاً عقابية."
+    ],
+    "strategyTips": [
+      "تتبّع الأوراق العالية التي لُعبت في كل لون.",
+      "تخلّص من لون واحد مبكراً عندما يكون آمناً لتتخلّص لاحقاً من الأوراق العقابية.",
+      "مرّر القلوب العالية الخطرة وملكة البستوني عندما يكون ذلك ممكناً."
+    ]
+  },
+  "crazy-eights": {
+    "name": "ثمانيات مجنونة",
+    "rules": [
+      "وزّع خمس أوراق لكل لاعب وضع ورقة واحدة مكشوفة لبدء كومة الرمي.",
+      "العب ورقة تطابق رتبة أو لون الورقة العلوية، أو العب ثمانية لتغيير اللون.",
+      "اسحب من المجموعة إن لم تستطع اللعب؛ أول من يفرغ يده يفوز."
+    ],
+    "strategyTips": [
+      "احتفظ بالثمانيات للحظات التي تحتاج فيها لاستعادة السيطرة على اللون.",
+      "حاول تقليل يدك إلى لون واحد عندما يكون لدى الخصوم أوراق قليلة.",
+      "تذكّر أي الألوان كان الخصوم يسحبون منها."
+    ]
+  },
+  "spades": {
+    "name": "بستوني",
+    "rules": [
+      "يجلس الشريكان متقابلين ويُعلنان عدد الحيل التي سيفوز بها فريقهما.",
+      "البستوني دائماً هو اللون الأعلى؛ يجب اتباع اللون عند الإمكان.",
+      "تحصل الفرق على نقاط عند تحقيق إعلانها وتتلقى عقوبات عند التقصير."
+    ],
+    "strategyTips": [
+      "تواصل عبر إعلانات منضبطة بدلاً من توقعات مبالَغ فيها.",
+      "ابدأ بأوراق منخفضة في الألوان القوية لاستخراج أوراق اللون الأعلى من الخصوم.",
+      "تتبّع البستوني المُلعب لمعرفة متى نُفدت أوراق اللون الأعلى."
+    ]
+  },
+  "go-fish": {
+    "name": "اذهب اصطاد",
+    "rules": [
+      "وزّع خمس أوراق لكل لاعب وضع الباقي مقلوباً كبركة.",
+      "اطلب من لاعب آخر رتبة تمتلكها؛ يجب أن يعطيك كل الأوراق المطابقة أو يقول «اذهب اصطاد».",
+      "اجمع مجموعات من أربع أوراق متطابقة وضعها؛ من يجمع أكثر يفوز."
+    ],
+    "strategyTips": [
+      "اطلب رتباً تمتلك منها عدة نسخ لتزيد فرص السحب الناجح.",
+      "انتبه إلى الرتب التي يطلبها الخصوم من بعضهم.",
+      "تذكّر من قيل له «اذهب اصطاد» لرتبة معيّنة."
+    ]
+  },
+  "war": {
+    "name": "حرب",
+    "rules": [
+      "قسّم المجموعة بالتساوي؛ لا ينظر أي لاعب إلى أوراقه.",
+      "يكشف اللاعبان الورقة العلوية في آن واحد؛ الأعلى رتبة يأخذ الورقتين.",
+      "عند التعادل، يضع كل لاعب ثلاث أوراق مقلوبة ثم واحدة مكشوفة لحسم النزاع."
+    ],
+    "strategyTips": [
+      "اللعبة تعتمد على الحظ في الغالب؛ ركّز على قواعد واضحة ولعب عادل.",
+      "اخلط المجموعة جيداً بين الجولات للحفاظ على تنوّع النتائج.",
+      "حافظ على إيقاع ثابت ليبقى اللاعبون الصغار منخرطين."
+    ]
+  },
+  "snap": {
+    "name": "صفّق",
+    "rules": [
+      "وزّع المجموعة كلها بالتساوي؛ يحتفظ اللاعبون بأوراقهم مقلوبة في كومة.",
+      "بالتناوب، اقلب ورقة واحدة على كومة مركزية دون النظر مسبقاً.",
+      "عند تطابق رتبة ورقتين متتاليتين، اصرخ «صفّق» واضرب الكومة أولاً لتربحها."
+    ],
+    "strategyTips": [
+      "ركّز على الكومة المركزية حتى عندما لا يكون دورك.",
+      "الصفّق الخاطئ غالباً يكلفك أوراقاً؛ تفاعل فقط مع التطابقات الحقيقية.",
+      "وزّع انتباهك على إيقاع قلب الجميع لتحسين سرعة ردّ الفعل."
+    ]
+  },
+  "solitaire": {
+    "name": "سوليتير",
+    "rules": [
+      "رتّب سبعة أعمدة بأوراق مكشوفة متزايدة وابنِ الأساسات من الآس إلى الملك حسب اللون.",
+      "انقل أوراق الأعمدة تنازلياً بألوان متناوبة؛ فقط الملك يملأ العمود الفارغ.",
+      "اسحب من المخزون ثلاثاً في كل مرة وأعد الدوران حتى تنتقل كل الأوراق للأساسات أو تنتهي الحركات."
+    ],
+    "strategyTips": [
+      "اكشف الأوراق المخفية في الأعمدة قبل نقل الأوراق إلى الأساسات.",
+      "أفرغ أعمدة مبكراً لتحريك الملوك وفتح الأوراق المدفونة.",
+      "أعطِ الأولوية للحركات التي تكشف الأوراق المقلوبة على إعادة الترتيب الشكلية."
+    ]
+  },
+  "gin-rummy": {
+    "name": "جين رامي",
+    "rules": [
+      "عشر أوراق لكل لاعب؛ في كل دور اسحب وارمِ لتكوين تركيبات وتقليل الأوراق غير المدمجة.",
+      "اطرق عندما يكون مجموع الأوراق غير المدمجة عشرة أو أقل، أو أعلن جيناً بلا أوراق غير مدمجة.",
+      "يُحسب الفرق في الأوراق غير المدمجة مع مكافآت للجين أو تجاوز الخصم."
+    ],
+    "strategyTips": [
+      "تتبّع الأوراق المرمية لتجنّب تزويد الخصوم بما يحتاجونه.",
+      "فكّك الأوراق غير المدمجة الكبيرة مبكراً حتى لو ضعّف ذلك تركيبة مؤقتاً.",
+      "اطرق في اللحظة المناسبة بدلاً من مطاردة الجين المثالي في كل جولة."
+    ]
+  },
+  "euchre": {
+    "name": "يوكر",
+    "rules": [
+      "يجلس الشريكان متقابلين؛ خمس أوراق لكل لاعب وورقة مرشّحة للون الأعلى مكشوفة.",
+      "تختار الفرق اللون الأعلى أو تمرّر؛ أعلى ورقة من اللون الأعلى تفوز بالحيلة، والبستوني الأيسر يُعدّ من اللون الأعلى.",
+      "أول فريق يصل إلى عشر نقاط يفوز باللعبة."
+    ],
+    "strategyTips": [
+      "اختر اللون الأعلى عندما تمتلك كلا البستونيين أو دعماً قوياً للون الأعلى.",
+      "ابدأ باللون الأعلى مبكراً إذا اختارته فرقتك لاستخراج أوراق الخصوم.",
+      "تذكّر أن البستوني الأيسر يغيّر هوية اللون عند تحديد اللون الأعلى."
+    ]
+  },
+  "bridge": {
+    "name": "بريدج",
+    "rules": [
+      "يجلس الشريكان متقابلين؛ تُحدَّد المزايدات اللون الأعلى وعقد عدد الحيل.",
+      "يلعب المُعلِن يدي الشريكية بينما تُعرض يد الشريك مكشوفة على الطاولة.",
+      "تُحسب النقاط بتحقيق عقد الحيل؛ المدافعون يسعون لإفشال العقد."
+    ],
+    "strategyTips": [
+      "احسب نقاط الأوراق العالية عند الافتتاح والرد على المزايدات.",
+      "خطّط لمسار اللعب كاملاً قبل البدء من يد الشريك المكشوفة.",
+      "إشارات الدفاع عبر اختيار الأوراق تساعد الشريك على استنتاج الألوان المهمة."
+    ]
+  },
+  "canasta": {
+    "name": "كنستا",
+    "rules": [
+      "أحد عشر ورقة لكل لاعب؛ اسحب اثنتين أو خذ كومة الرمي لبناء تركيبات من سبع أوراق.",
+      "التركيبة تحتاج ثلاث أوراق على الأقل من نفس الرتبة؛ الأوراق البرية محدودة الاستخدام.",
+      "اخرج بدمج كل أوراقك بعد أن تكمل فرقتك كنستا واحدة على الأقل."
+    ],
+    "strategyTips": [
+      "جمّد كومة الرمي استراتيجياً لمنع الخصوم من أخذها.",
+      "ابنِ نحو كنستا طبيعية قبل الاعتماد كثيراً على الأوراق البرية.",
+      "تتبّع الرتب التي يجمعها الخصوم لتجنّب الرمي المفيد لهم."
+    ]
+  },
+  "old-maid": {
+    "name": "العجوز",
+    "rules": [
+      "أزل ملكة واحدة لتبقى ملكة بلا زوج هي «العجوز».",
+      "يتخلّص اللاعبون من الأزواج ثم يسحبون ورقة عشوائياً من اللاعب التالي.",
+      "تجنّب أن تبقى مع «العجوز» عندما تختفي كل الأزواج."
+    ],
+    "strategyTips": [
+      "لاحظ الأوراق التي يتردّد الخصم في عرضها.",
+      "اخلط يدك قبل العرض حتى لا يقرأ الخصوم أي نمط.",
+      "حافظ على تعبير محايد عند أخذ الأوراق أو تسليمها."
+    ]
+  },
+  "golf": {
+    "name": "غولف",
+    "rules": [
+      "رتّب ست أوراق مقلوبة في صفين واقلب اثنتين للبدء.",
+      "في كل دور، اسحب من المجموعة أو الرمي واستبدل ورقة مقلوبة أو مكشوفة.",
+      "أقل مجموع بعد كشف كل الأوراق يفوز بالجولة."
+    ],
+    "strategyTips": [
+      "استبدل الأوراق المقلوبة العالية مبكراً قبل أن «يُثبَّت» الرصيد.",
+      "تذكّر مواقع الأوراق التي رأيتها أثناء الاستبدال.",
+      "أنهِ الجولة فقط عندما تكون واثقاً أن مجموعك هو الأقل."
+    ]
+  },
+  "slapjack": {
+    "name": "صفّق الجاك",
+    "rules": [
+      "وزّع كل الأوراق مقلوبة بالتساوي؛ بالتناوب يضع اللاعبون ورقة واحدة في الوسط.",
+      "صفّق على الكومة عند ظهور الجاك أو حسب أنماط «الساندوتش» المتفق عليها.",
+      "الصفّق الصحيح يمنحك الكومة؛ الخطأ يعطيك ورقة عقابية."
+    ],
+    "strategyTips": [
+      "أبقِ يدك جاهزة لكن تحت السيطرة لتجنّب الصفّق الخاطئ.",
+      "راقب الجاك في تسلسلات سريعة بعد سلسلة طويلة بلا جاك.",
+      "ابقَ هادئاً بعد خسارة كومة كبيرة؛ الإيقاع أهم من القوة."
+    ]
+  },
+  "president": {
+    "name": "الرئيس",
+    "rules": [
+      "وزّع كل الأوراق؛ يلعب اللاعبون ورقة واحدة أو مجموعات متطابقة تتفوق على اللعب السابق.",
+      "يمكن التمرير إن لم تستطع أو لم ترغب في التفوق على التركيبة الحالية.",
+      "من يفرغ يده أولاً يصبح الرئيس؛ آخر من يبقى يحصل على أدنى رتبة."
+    ],
+    "strategyTips": [
+      "احتفظ بالأزواج والثلاثيات العالية للحظات التي «يُعاد فيها ضبط» الطاولة.",
+      "أخرج الأوراق الضعيفة مبكراً بينما لا يزال لدى الآخرين أوراق كثيرة.",
+      "مرّر تكتيكياً لتجعل الخصوم ينفقون تركيبات قوية."
+    ]
+  },
+  "cheat": {
+    "name": "كذب",
+    "rules": [
+      "وزّع كل الأوراق؛ بالتناوب يلعب اللاعبون ورقة أو أكثر مقلوبة مع إعلان رتبة.",
+      "يمكن للتالي أن يقول «كذب» لكشف اللعب؛ إن كُشف الكذب يلتقط اللاعب الكومة.",
+      "أول من يفرغ يده يفوز."
+    ],
+    "strategyTips": [
+      "امزج بين اللعب الصادق والخداع حتى لا يتوقّع الخصوم أسلوبك.",
+      "تحدَّ عندما لا يتطابق العدد المُعلَن مع إيقاع الطاولة.",
+      "تتبّع الرتب التي لُعبت كثيراً لاكتشاف ادعاءات غير محتملة."
+    ]
+  },
+  "whist": {
+    "name": "وِست",
+    "rules": [
+      "يجلس الشريكان متقابلين؛ ثلاث عشرة ورقة لكل لاعب وتحدّد الورقة الأخيرة اللون الأعلى.",
+      "اتبع اللون عند الإمكان؛ أعلى ورقة في اللون المطلوب تفوز ما لم يُلعب اللون الأعلى.",
+      "تحصل الفرق على نقطة واحدة لكل حيلة بعد السادسة."
+    ],
+    "strategyTips": [
+      "ابدأ من ألوان قصيرة وقوية لتحقيق حيل مبكراً.",
+      "استخدم اللون الأعلى باقتصاد لا في كل فرصة.",
+      "أشِر للشريك عبر اختيار الأوراق بعناية ضمن اللعب القانوني."
+    ]
+  },
+  "pitch": {
+    "name": "بيتش",
+    "rules": [
+      "ست أوراق لكل لاعب؛ المزايدة تحدّد اللون الأعلى وأقل عدد حيل ستفوز به فرقتك.",
+      "اتبع اللون عند الإمكان؛ اللون الأعلى يتفوق على غيره وأعلى ورقة منه تفوز.",
+      "تُحسب نقاط للأعلى والأدنى والجاك واللعب حسب القواعد المتفق عليها."
+    ],
+    "strategyTips": [
+      "زايد بحذر حتى تعرف قوة الشريك من الحيل الأولى.",
+      "ابدأ باللون الأعلى إذا اختارته فرقتك لاستخراج أوراق الخصوم.",
+      "تتبّع الأوراق النقطية المُلعَبة لتقدير فرص النقاط المتبقية."
+    ]
+  },
+  "cribbage": {
+    "name": "كريبيج",
+    "rules": [
+      "يرمي كل لاعب ورقتين إلى «المهد» قبل مراحل العد والعرض.",
+      "يُلعب بالتناوب مع احتساب نقاط للخمس عشرة والأزواج والتسلسلات والواحد والثلاثين أثناء العد.",
+      "تُحسب الأيدي والمهد بالتركيبات؛ أول من يصل إلى 121 نقطة يفوز."
+    ],
+    "strategyTips": [
+      "وازن بين إمكانية النقاط والأمان عند الرمي إلى المهد.",
+      "ابدأ بأوراق منخفضة أثناء العد للحفاظ على مرونة التسلسلات.",
+      "احسب الأوراق المتبقية ذهنياً لتقدير قيمة مهد الخصم."
+    ]
+  },
+  "mau-mau": {
+    "name": "مو مو",
+    "rules": [
+      "خمس أوراق لكل لاعب وورقة بداية واحدة على كومة الرمي.",
+      "طابق الرتبة أو اللون، أو العب ثمانيات وجاك بتأثيرات خاصة للون أو تخطي الدور.",
+      "اسحب إن لم تستطع اللعب؛ أول من يفرغ يده يفوز."
+    ],
+    "strategyTips": [
+      "احتفظ بأوراق التأثير عندما يكون الخصوم قريبين من الفوز.",
+      "أعلن «مو» على آخر ورقة إذا كان ذلك من قواعدكم.",
+      "تتبّع تغييرات اللون من الأوراق الخاصة لتجنّب السحب غير الضروري."
+    ]
+  },
+  "egyptian-ratscrew": {
+    "name": "فأر مصري",
+    "rules": [
+      "كل الأوراق مقلوبة؛ يقلب اللاعبون ورقة واحدة في كل مرة على كومة مركزية.",
+      "صفّق عند التكرار أو أنماط «الساندوتش» حسب القواعد المتفق عليها.",
+      "الصفّق الصحيح يمنحك الكومة؛ من يجمع كل الأوراق يفوز."
+    ],
+    "strategyTips": [
+      "اتفقوا على أنماط الصفّق المسموحة قبل البدء لتجنّب النزاعات.",
+      "أبقِ عينيك على وسط الكومة؛ الحركة الجانبية تشتت الانتباه.",
+      "انسحب بسرعة من الصفّق الخاطئ لتقليل ورقة العقوبة إن وُجدت."
+    ]
+  },
+  "spite-and-malice": {
+    "name": "حقد وحسد",
+    "rules": [
+      "لكل لاعب كومة هدف وكومات جانبية ويد تُجدَّد إلى خمس أوراق كل دور.",
+      "العب تصاعدياً على كومات مركزية مشتركة بدءاً من الآس؛ الملوك أوراق برية.",
+      "أفرغ كومة هدفك أولاً لتفوز باللعبة."
+    ],
+    "strategyTips": [
+      "استخدم الكومات الجانبية لتخزين «الحاصرات» بعيداً عن يدك النشطة.",
+      "العب من كومة الهدف كلما أمكن؛ ذلك يقربك من الفوز مباشرة.",
+      "الملوك ثمينة؛ استخدمهم لفتح كومات مركزية عالقة."
+    ]
+  },
+  "pinochle": {
+    "name": "Pinochle",
+    "rules": [
+      "Partners sit across; deal 12 cards each from a 48-card double deck.",
+      "Bid to name trump and win at least the promised number of points from melds and tricks.",
+      "Follow suit when able; highest trump or led suit wins each trick."
+    ],
+    "strategyTips": [
+      "Count trump early to judge whether your bid is safe.",
+      "Save high trump for tricks that protect valuable melds.",
+      "Communicate strength through disciplined bidding rather than risky overcalls."
+    ]
+  },
+  "belote": {
+    "name": "Belote",
+    "rules": [
+      "Four players in fixed partnerships; five cards each plus a turned trump card.",
+      "Teams choose trump or pass; must follow suit and trump when required.",
+      "Score points from declared combinations and captured tricks."
+    ],
+    "strategyTips": [
+      "Call trump only when your side holds strong trump control.",
+      "Lead through opponents' known long suits when defending.",
+      "Track which honors have been played before declaring combinations."
+    ]
+  },
+  "skat": {
+    "name": "Skat",
+    "rules": [
+      "One player opposes the other two; deal 10 cards to each with two in the skat.",
+      "Auction sets the soloist, trump suit or grand game, and point target.",
+      "Follow suit; jacks are permanent trump in suit games."
+    ],
+    "strategyTips": [
+      "Evaluate the skat before committing to a high contract.",
+      "Discard to create void suits only when you can trump safely.",
+      "Defenders coordinate by signaling with card choice within legal play."
+    ]
+  },
+  "oh-hell": {
+    "name": "Oh Hell",
+    "rules": [
+      "Hand size changes each round; players bid how many tricks they will win.",
+      "Follow suit when possible; highest card of led suit wins unless trump is used.",
+      "Score only when your bid exactly matches tricks taken."
+    ],
+    "strategyTips": [
+      "Adjust bids as hand size shrinks and trump length becomes clearer.",
+      "Dump high cards early when you need to miss your bid.",
+      "Watch opponents' bids to infer who must win or lose tricks."
+    ]
+  },
+  "knock-rummy": {
+    "name": "Knock Rummy",
+    "rules": [
+      "Deal seven cards each; draw and discard each turn to form sets and runs.",
+      "Knock when total unmatched card value is ten or fewer.",
+      "Opponents reveal hands; lower deadwood scores better."
+    ],
+    "strategyTips": [
+      "Track discards to avoid feeding opponents useful cards.",
+      "Knock early when opponents look close to gin-style hands.",
+      "Break large deadwood even if it delays a perfect meld."
+    ]
+  },
+  "contract-rummy": {
+    "name": "Contract Rummy",
+    "rules": [
+      "Play a series of deals with rising meld requirements each round.",
+      "Draw and discard; lay down the required contract before extending melds.",
+      "First player to empty their hand after all contracts wins the round sequence."
+    ],
+    "strategyTips": [
+      "Plan two rounds ahead to keep flexible middle cards.",
+      "Hold wild cards until the contract for that round allows them.",
+      "Watch who has already laid down to judge risk on discards."
+    ]
+  },
+  "durak": {
+    "name": "Durak",
+    "rules": [
+      "Attack with a card; defender must beat it with higher same suit or trump.",
+      "Other players may add matching ranks while the defender still holds cards.",
+      "Last player holding cards becomes the durak; others win."
+    ],
+    "strategyTips": [
+      "Save trump for critical defense, not every trick.",
+      "Add low cards to attacks when the defender is low on cards.",
+      "Force opponents to spend trump before your final push."
+    ]
+  },
+  "scopa": {
+    "name": "Scopa",
+    "rules": [
+      "Four face-up table cards; play one card to capture matching sums or ranks.",
+      "Clear the table for a scopa bonus point.",
+      "Score for sets, seven of coins, most cards, and most coins."
+    ],
+    "strategyTips": [
+      "Leave totals that are hard for opponents to capture.",
+      "Track which ranks have been played before setting up scopa.",
+      "Protect the seven of coins when possible."
+    ]
+  },
+  "cassino": {
+    "name": "Cassino",
+    "rules": [
+      "Deal four cards each plus four face-up on the table.",
+      "Capture by matching rank or building combinations to a target total.",
+      "Score for sweeps, aces, big cassino, little cassino, and most cards."
+    ],
+    "strategyTips": [
+      "Build piles you can capture on your next turn.",
+      "Avoid leaving easy single-card captures for opponents.",
+      "Remember which spades and aces are still unplayed."
+    ]
+  },
+  "speed": {
+    "name": "Speed",
+    "rules": [
+      "Split the deck; each player holds five cards and flips two center piles.",
+      "Play cards one rank higher or lower onto either pile as fast as possible.",
+      "Refill from your stock; first to empty hand and stock wins."
+    ],
+    "strategyTips": [
+      "Keep eyes on both piles simultaneously.",
+      "Hold versatile middle ranks that connect both piles.",
+      "Flip new center cards quickly when both players stall."
+    ]
+  },
+  "spit": {
+    "name": "Spit",
+    "rules": [
+      "Each player builds five tableau piles and shares a spit pile in the center.",
+      "Play ascending sequences on center piles when available without taking turns.",
+      "Empty all tableau piles first, then clear the spit pile to win."
+    ],
+    "strategyTips": [
+      "Expose buried cards in tableau piles early.",
+      "Watch opponent speed but avoid illegal simultaneous plays.",
+      "Prioritize moves that unlock multiple face-down cards."
+    ]
+  },
+  "concentration": {
+    "name": "Concentration",
+    "rules": [
+      "Spread cards face down in a grid.",
+      "On your turn, flip two cards; keep pairs and play again.",
+      "Most pairs when the board is cleared wins."
+    ],
+    "strategyTips": [
+      "Remember positions of revealed cards even when unmatched.",
+      "Open new areas when you know a pair is elsewhere.",
+      "Use systematic scanning rather than random guesses."
+    ]
+  },
+  "memory": {
+    "name": "Memory",
+    "rules": [
+      "Lay all cards face down in rows.",
+      "Flip two at a time; matched ranks stay face up.",
+      "Player with the most pairs wins."
+    ],
+    "strategyTips": [
+      "Group remembered cards by rank mentally.",
+      "Say ranks quietly to reinforce recall if learning.",
+      "Start with smaller decks when teaching children."
+    ]
+  },
+  "fan-tan": {
+    "name": "Fan Tan",
+    "rules": [
+      "Deal all cards; play in order by suit starting at seven.",
+      "Add cards adjacent to existing suit sequences on the table.",
+      "First to empty hand wins."
+    ],
+    "strategyTips": [
+      "Block suits opponents need with your own low or high cards.",
+      "Play middle cards early when you hold many of one suit.",
+      "Track which suits are still waiting for a seven."
+    ]
+  },
+  "kemps": {
+    "name": "Kemps",
+    "rules": [
+      "Partners sit across; four cards each and frequent swaps from the deck.",
+      "Signal your partner when you hold four of a kind without being caught.",
+      "Call Kemps when you see your partner's signal; opponents may call false."
+    ],
+    "strategyTips": [
+      "Design subtle signals before the game starts.",
+      "Watch opponents for accidental patterns.",
+      "Discard and draw aggressively to chase four of a kind."
+    ]
+  },
+  "nerts": {
+    "name": "Nerts",
+    "rules": [
+      "Each player builds solitaire-style piles while sharing ascending center piles.",
+      "Race to play aces and continue sequences without taking turns.",
+      "Score when your nerts pile is empty minus penalties for remaining cards."
+    ],
+    "strategyTips": [
+      "Free buried cards in your personal tableau first.",
+      "Play to center piles quickly when sequences open.",
+      "Balance speed with avoiding illegal pile conflicts."
+    ]
+  },
+  "pig": {
+    "name": "Pig",
+    "rules": [
+      "Pass one card left each round; aim to collect four of a kind.",
+      "When you have four of a kind, quietly put your finger on your nose.",
+      "Last player to notice and touch their nose gets a letter toward P-I-G."
+    ],
+    "strategyTips": [
+      "Pass quickly to keep rhythm high.",
+      "Glance at opponents often without obvious staring.",
+      "Discard ranks you no longer need early each pass."
+    ]
+  },
+  "authors": {
+    "name": "Authors",
+    "rules": [
+      "Collect complete four-card sets by asking opponents for ranks.",
+      "If asked player has the rank, they must hand all matching cards.",
+      "Most complete sets when the deck runs out wins."
+    ],
+    "strategyTips": [
+      "Ask for ranks where you hold multiple cards.",
+      "Track which players denied you to infer their holdings.",
+      "Remember successful requests to rebuild sets quickly."
+    ]
+  },
+  "crazy-rummy": {
+    "name": "Crazy Rummy",
+    "rules": [
+      "Each round requires a different meld pattern before you can lay down.",
+      "Draw and discard; extend your melds and opponents' shown melds when legal.",
+      "First to empty hand after completing the round contract wins the deal."
+    ],
+    "strategyTips": [
+      "Keep flexible cards until the round contract is clear.",
+      "Lay down as soon as legal to start reducing hand size.",
+      "Watch discard pile for clues about near-complete opponent melds."
+    ]
+  },
+  "indian-rummy": {
+    "name": "Indian Rummy",
+    "rules": [
+      "Deal 13 cards each; form at least two sequences including one pure sequence.",
+      "Draw from stock or discard pile; finish with one card discarded.",
+      "Declare when all cards form valid sets and sequences."
+    ],
+    "strategyTips": [
+      "Build a pure sequence before chasing sets.",
+      "Discard high unmatched cards early.",
+      "Track jokers and use them to complete second sequences."
+    ]
+  },
+  "schnapsen": {
+    "name": "Schnapsen",
+    "rules": [
+      "Use a 20-card deck; players need 66 points to win the game.",
+      "Follow suit; trump beats non-trump; winner of trick leads next.",
+      "Close the stock early when you believe your hand can reach the target."
+    ],
+    "strategyTips": [
+      "Count trump and marriage points before closing.",
+      "Lead small trump to pull opponents' high trump.",
+      "Track point totals every trick to know when to close."
+    ]
+  },
+  "thousand": {
+    "name": "Thousand",
+    "rules": [
+      "Three players with a 24-card deck; bid to become declarer.",
+      "Declarer seeks tricks and marriages to reach the bid total.",
+      "Defenders cooperate to stop the declarer from making the contract."
+    ],
+    "strategyTips": [
+      "Bid based on marriage points plus likely trick strength.",
+      "Lead trump when you need to pull control from declarer.",
+      "Remember which marriages are still possible from remaining cards."
+    ]
+  },
+  "scat": {
+    "name": "Scat",
+    "rules": [
+      "Three players; one card at a time bidding for pick of trump or pass.",
+      "Defending players try to stop the picker from making three tricks.",
+      "Score accumulates over multiple hands to a set target."
+    ],
+    "strategyTips": [
+      "Pick only with secure trump length and high cards.",
+      "Defenders lead suits the picker is void in when possible.",
+      "Track who passed to estimate remaining trump distribution."
+    ]
+  },
+  "bourre": {
+    "name": "Bourré",
+    "rules": [
+      "Five cards each; players may stay in or drop after seeing trump.",
+      "Must follow suit; highest trump or led suit wins tricks.",
+      "Fail to take at least one trick and you bourré into the penalty pile."
+    ],
+    "strategyTips": [
+      "Drop weak hands early rather than forcing a bourré.",
+      "Lead trump when you hold length and high honors.",
+      "Count how many players stayed in before committing high cards."
+    ]
+  },
+  "bridge-whist": {
+    "name": "Whist (Classic)",
+    "rules": [
+      "Partners sit across; last card dealt sets trump for the hand.",
+      "Follow suit; highest trump or led suit wins each trick.",
+      "Team scoring the most tricks earns points toward game total."
+    ],
+    "strategyTips": [
+      "Lead your longest strong suit to establish tricks.",
+      "Use trump economically rather than on every opportunity.",
+      "Signal partner with thoughtful card selection within legal play."
+    ]
+  },
+  "double-solitaire": {
+    "name": "Double Solitaire",
+    "rules": [
+      "Each player runs their own solitaire layout side by side.",
+      "Share foundation piles ascending by suit from ace to king.",
+      "First to move all cards to foundations wins the race."
+    ],
+    "strategyTips": [
+      "Prioritize moves that open face-down tableau cards.",
+      "Play to shared foundations quickly when aces appear.",
+      "Do not block foundations your opponent needs unless it helps your tableau."
+    ]
+  },
+  "freecell": {
+    "name": "FreeCell",
+    "rules": [
+      "Deal all cards face-up into eight columns with four open storage cells.",
+      "Move one card at a time; build columns downward alternating red and black.",
+      "Win by moving every card to four foundation piles ascending by suit."
+    ],
+    "strategyTips": [
+      "Keep free cells open early to maximize move options.",
+      "Clear buried aces and low cards before building tall stacks.",
+      "Plan several moves ahead before emptying a column."
+    ]
+  },
+  "spider-solitaire": {
+    "name": "Spider Solitaire",
+    "rules": [
+      "Deal ten columns; build sequences downward in the same suit.",
+      "Move fully packed same-suit runs as a unit when allowed.",
+      "Remove completed king-to-ace runs; clear all columns to win."
+    ],
+    "strategyTips": [
+      "Expose face-down cards before creating new empty columns.",
+      "Prioritize same-suit builds over mixed-suit stacks.",
+      "Avoid deals from stock until no productive moves remain."
+    ]
+  },
+  "pyramid-solitaire": {
+    "name": "Pyramid Solitaire",
+    "rules": [
+      "Arrange 28 cards in a pyramid; pair exposed cards totaling thirteen.",
+      "Kings remove alone; draw from stock when no pairs remain.",
+      "Clear the entire pyramid to win the deal."
+    ],
+    "strategyTips": [
+      "Remove cards that block many others first.",
+      "Save kings until they unlock deeper pyramid layers.",
+      "Track which totals still need matching partners."
+    ]
+  },
+  "clock-solitaire": {
+    "name": "Clock Solitaire",
+    "rules": [
+      "Lay twelve piles in a circle like clock positions plus a center pile.",
+      "Flip the top card of the current pile and place it on its rank pile.",
+      "Win if all cards reach their matching clock positions before kings end the run."
+    ],
+    "strategyTips": [
+      "Watch which piles still hold face-down cards.",
+      "Kings always go to the center; plan around that rule.",
+      "Stay patient; luck matters more than deep strategy here."
+    ]
+  },
+  "accordion": {
+    "name": "Accordion",
+    "rules": [
+      "Lay cards one at a time in a row from the deck.",
+      "Compress a card onto the pile one or three places left if rank or suit matches.",
+      "Win by reducing the entire deck to a single pile."
+    ],
+    "strategyTips": [
+      "Prefer three-space jumps when they open longer merges.",
+      "Avoid early moves that block later compression chains.",
+      "Replay tricky deals to learn which merges matter most."
+    ]
+  },
+  "thirty-one": {
+    "name": "Thirty-One",
+    "rules": [
+      "Each player receives three cards; aim for the highest same-suit total up to thirty-one.",
+      "On your turn, draw from deck or discard and discard one card.",
+      "Knock when satisfied; lowest hand loses a life until one player remains."
+    ],
+    "strategyTips": [
+      "Switch suits early if your starting three cards are split.",
+      "Knock quickly when holding twenty-nine or thirty in one suit.",
+      "Watch how long opponents draw instead of knocking."
+    ]
+  },
+  "bezique": {
+    "name": "Bezique",
+    "rules": [
+      "Use a 64-card double deck; deal eight cards each.",
+      "Melds like marriages and beziques score immediately when declared.",
+      "Follow suit; win tricks to draw fresh cards and reach the target score."
+    ],
+    "strategyTips": [
+      "Declare scoring melds before losing those cards in tricks.",
+      "Track trump length to judge endgame trick prospects.",
+      "Save double bezique combinations for maximum point swings."
+    ]
+  },
+  "piquet": {
+    "name": "Piquet",
+    "rules": [
+      "Use a 32-card deck; exchange cards after evaluating point combinations.",
+      "Score for sets, runs, and point totals before trick play begins.",
+      "Play twelve tricks; additional points come from cards captured in tricks."
+    ],
+    "strategyTips": [
+      "Exchange aggressively when your hand lacks cartes blanches potential.",
+      "Lead suits where you hold both length and high honors.",
+      "Count remaining trump cards before committing a late trick."
+    ]
+  },
+  "golf-solitaire": {
+    "name": "Golf Solitaire",
+    "rules": [
+      "Deal seven columns of five overlapping cards plus a waste pile starter.",
+      "Remove exposed cards one rank higher or lower than the waste top.",
+      "Clear the tableau; fewer remaining cards means a better score."
+    ],
+    "strategyTips": [
+      "Choose moves that unlock the most buried cards.",
+      "Save versatile middle ranks for dead-end positions.",
+      "Replay deals to beat your personal best clearance count."
+    ]
+  },
+  "bakers-dozen": {
+    "name": "Baker's Dozen",
+    "rules": [
+      "Deal thirteen columns of four cards; kings move automatically to column tops.",
+      "Build columns downward by suit regardless of rank order at start.",
+      "Move all cards to foundations ascending by suit to win."
+    ],
+    "strategyTips": [
+      "Use the guaranteed king positions to plan early suit builds.",
+      "Free buried low cards before committing to one foundation path.",
+      "Empty a column only when it helps expose needed cards."
+    ]
+  },
+  "spoons": {
+    "name": "Spoons",
+    "rules": [
+      "Place one fewer spoon than players in the center; deal four cards each.",
+      "Pass one card left each turn; grab a spoon when you collect four of a kind.",
+      "Last player to grab a spoon earns a letter toward S-P-O-O-N-S."
+    ],
+    "strategyTips": [
+      "Keep passing rhythm fast to pressure slower opponents.",
+      "Fake a reach toward spoons only when it helps you spot laggers.",
+      "Track which ranks opponents stop passing to infer their sets."
+    ]
+  },
+  "switch": {
+    "name": "Switch",
+    "rules": [
+      "Deal seven cards each; play a card matching rank or suit on the discard pile.",
+      "Special cards may skip turns, reverse order, or force draws.",
+      "First player to empty their hand wins the round."
+    ],
+    "strategyTips": [
+      "Save action cards for moments when opponents are close to winning.",
+      "Change suit when you hold many cards of one color.",
+      "Count cards left in opponents' hands during the final turns."
+    ]
+  },
+  "palace": {
+    "name": "Palace",
+    "rules": [
+      "Each player builds a hand, face-down palace, and face-up palace.",
+      "Play equal or higher cards on the pile; twos reset and tens clear the pile.",
+      "Empty hand, then palace cards; first to shed everything wins."
+    ],
+    "strategyTips": [
+      "Place strong cards face-up on your palace when setting up.",
+      "Use twos and tens to escape bad pile situations.",
+      "Hold low cards for endgame palace turns when possible."
+    ]
+  },
+  "garbage": {
+    "name": "Garbage",
+    "rules": [
+      "Lay ten face-down slots numbered ace through ten in front of each player.",
+      "Draw and place cards in matching slots; replaced cards continue your turn.",
+      "First to fill all ten slots wins; others reduce layout size next round."
+    ],
+    "strategyTips": [
+      "Place wildcards on hard-to-draw slots like ten or nine.",
+      "Remember which slots opponents still need from visible discards.",
+      "Keep drawing when replacements let you chain multiple placements."
+    ]
+  },
+  "beggar-my-neighbor": {
+    "name": "Beggar My Neighbor",
+    "rules": [
+      "Split the deck evenly; players alternate playing cards face-up.",
+      "When a court card appears, the opponent must pay penalty cards.",
+      "Collect the entire pile when penalties fail; most cards wins."
+    ],
+    "strategyTips": [
+      "Court cards are power turns; note when many remain.",
+      "There is little skill—enjoy the suspense of penalty chains.",
+      "Shuffle thoroughly between short rematches for variety."
+    ]
+  },
+  "happy-families": {
+    "name": "Happy Families",
+    "rules": [
+      "Collect complete four-card families by asking opponents for members.",
+      "If asked player holds the card, they must hand it over and you ask again.",
+      "Most complete families when the deck runs out wins."
+    ],
+    "strategyTips": [
+      "Ask for cards where you already hold multiple family members.",
+      "Track denials to remember who likely holds missing cards.",
+      "Complete one family early to reduce random luck later."
+    ]
+  },
+  "pass-the-card": {
+    "name": "Pass the Card",
+    "rules": [
+      "Each player starts with one face-down card and three tokens.",
+      "On a signal, peek at your card once and pass it left or keep it.",
+      "Lowest card showing loses a token; last player with tokens wins."
+    ],
+    "strategyTips": [
+      "Pass clearly bad cards early in the round sequence.",
+      "Watch neighbors hesitate before passing—that hints at strength.",
+      "Keep a token cushion by staying near average ranks when unsure."
+    ]
+  },
+  "my-ship-sails": {
+    "name": "My Ship Sails",
+    "rules": [
+      "Deal seven cards each; collect seven of one suit to win instantly.",
+      "Each turn trade one to three cards with another player by agreement.",
+      "Call when you hold seven of a suit; wrong calls add penalty cards."
+    ],
+    "strategyTips": [
+      "Trade away stray suits early to focus your collection.",
+      "Offer fair trades to stay trusted for later big swaps.",
+      "Track which suits opponents are hoarding from their requests."
+    ]
+  },
+  "blitz": {
+    "name": "Blitz",
+    "rules": [
+      "Each player builds three stacks from a personal blitz pile in the center.",
+      "Play ascending same-suit piles on shared center stacks when possible.",
+      "First to empty their blitz pile shouts blitz and wins the round."
+    ],
+    "strategyTips": [
+      "Keep one hand on your blitz pile and one on center stacks.",
+      "Open moves that free multiple buried cards at once.",
+      "Do not hesitate when a valid center play appears."
+    ]
+  },
+  "yaniv": {
+    "name": "Yaniv",
+    "rules": [
+      "Deal five cards each; reduce hand value by drawing and discarding.",
+      "Call Yaniv when your hand totals five or fewer points.",
+      "Lowest hand wins unless someone beats the caller with equal or lower."
+    ],
+    "strategyTips": [
+      "Track visible discards to estimate opponents' totals.",
+      "Call Yaniv early when others likely hold face cards.",
+      "Break pairs if doing so drops your total faster."
+    ]
+  },
+  "james-bond": {
+    "name": "James Bond",
+    "rules": [
+      "Deal four piles of four cards with four center cards shared by all.",
+      "Race to swap cards simultaneously without taking turns.",
+      "First to make each of their four piles match by rank wins."
+    ],
+    "strategyTips": [
+      "Focus one pile at a time instead of random swapping.",
+      "Watch center cards opponents ignore for quick matches.",
+      "Keep moving; stalling lets faster players finish first."
+    ]
+  },
+  "kings-in-the-corner": {
+    "name": "Kings in the Corner",
+    "rules": [
+      "Deal seven cards each; build four corner piles alternating red and black downward.",
+      "Play one card per turn on corners or shared descending piles.",
+      "First to empty hand wins; kings start new corner piles."
+    ],
+    "strategyTips": [
+      "Play kings to corners quickly to open new placement options.",
+      "Hold cards that fit multiple piles for flexible turns.",
+      "Block opponents by using shared piles they need."
+    ]
+  },
+  "five-hundred": {
+    "name": "Five Hundred",
+    "rules": [
+      "Partners sit across; bid how many tricks and which suit will be trump.",
+      "Follow suit when able; highest trump or led suit wins each trick.",
+      "Meet your contract to score; fail and lose points toward game total."
+    ],
+    "strategyTips": [
+      "Bid with strong trump length plus side aces.",
+      "Lead trump early when you need to pull opponents' honors.",
+      "Track which suits opponents are void in from discards."
+    ]
+  },
+  "sheepshead": {
+    "name": "Sheepshead",
+    "rules": [
+      "One player opposes the others as picker after a short auction.",
+      "Queens and jacks are permanent trump in fixed order.",
+      "Picker needs sixty-one points from tricks to win the hand."
+    ],
+    "strategyTips": [
+      "Pick only with strong trump and point-rich cards.",
+      "Defenders lead suits the picker is likely void in.",
+      "Count trump as they fall; late tricks often decide close hands."
+    ]
+  },
+  "doppelkopf": {
+    "name": "Doppelkopf",
+    "rules": [
+      "Partnerships are hidden until revealed through play.",
+      "Queens, jacks, and diamonds behave as trump depending on variant.",
+      "Team reaching the target score first wins the session."
+    ],
+    "strategyTips": [
+      "Signal partner subtly with thoughtful card choice.",
+      "Reveal partnership when coordination will swing key tricks.",
+      "Track which queens and jacks have been played."
+    ]
+  },
+  "schafkopf": {
+    "name": "Schafkopf",
+    "rules": [
+      "Partnerships shift each hand based on who holds called cards.",
+      "Obers and Unters are trump; aces and tens carry high point values.",
+      "Calling team must reach sixty-one trick points to win."
+    ],
+    "strategyTips": [
+      "Learn the fixed trump order before playing competitively.",
+      "Lead aces from long side suits when you are on defense.",
+      "Save trump for tricks that protect tens and aces."
+    ]
+  },
+  "bid-whist": {
+    "name": "Bid Whist",
+    "rules": [
+      "Partners bid tricks and choose trump or no-trump for the hand.",
+      "Follow suit; jokers may act as highest trump in some variants.",
+      "Bidder's team must capture at least the promised tricks to score."
+    ],
+    "strategyTips": [
+      "Count sure winners before committing to a high bid.",
+      "No-trump rewards long strong suits and careful entry management.",
+      "Defenders cooperate to force the bidder to spend trump early."
+    ]
+  },
+  "jass": {
+    "name": "Jass",
+    "rules": [
+      "Partners sit across; choose trump through bidding or card turn-up.",
+      "Must trump when void in led suit if opponents are winning.",
+      "Score melds plus trick points; first team to target wins."
+    ],
+    "strategyTips": [
+      "Announce strong melds before trick play when rules allow.",
+      "Pull trump when you hold length and high honors.",
+      "Discard low points when you cannot win the trick."
+    ]
+  },
+  "klaberjass": {
+    "name": "Klaberjass",
+    "rules": [
+      "Two players with a 32-card deck; bid to choose trump suit.",
+      "Jacks and queens form a special trump order separate from suit rank.",
+      "Reach the agreed total from melds and trick points to win."
+    ],
+    "strategyTips": [
+      "Bid trump when jack-nine combinations are in your hand.",
+      "Lead non-trump aces before trump strips your length.",
+      "Track which trump honors remain after each trick."
+    ]
+  },
+  "twenty-eight": {
+    "name": "Twenty-Eight",
+    "rules": [
+      "Deal four cards each; bid from zero to twenty-eight for trump choice.",
+      "Only trump jack, nine, ace, and ten rank high in point tricks.",
+      "Bidder's team must meet the contract or lose the round score."
+    ],
+    "strategyTips": [
+      "Bid aggressively only with strong trump jack-nine combinations.",
+      "Lead trump early when you need to pull opposing honors.",
+      "Defenders target suits where the bidder looks weak."
+    ]
+  },
+  "pluck": {
+    "name": "Pluck",
+    "rules": [
+      "Each player may stay in or drop after seeing a few cards.",
+      "Trump is fixed or chosen; follow suit when possible.",
+      "Lowest trick count among staying players wins the round."
+    ],
+    "strategyTips": [
+      "Drop early with scattered low cards and no trump length.",
+      "Force opponents to win tricks they do not want with high leads.",
+      "Count how many players stayed in before playing your best cards."
+    ]
+  },
+  "misere": {
+    "name": "Misère",
+    "rules": [
+      "Players try to avoid winning tricks rather than collect them.",
+      "Follow suit when able; highest card of led suit takes the trick.",
+      "Each unwanted trick adds penalty points; lowest total wins."
+    ],
+    "strategyTips": [
+      "Dump high cards early when you are safe to lose the trick.",
+      "Lead low cards in suits where opponents hold higher ones.",
+      "Track who is forced to win tricks near round end."
+    ]
+  },
+  "napoleon": {
+    "name": "Napoleon",
+    "rules": [
+      "Players bid how many tricks they will win as soloist.",
+      "Highest bidder names trump and plays alone against the others.",
+      "Make the contract to score; fail and pay points to opponents."
+    ],
+    "strategyTips": [
+      "Bid five only with secure trump control and side aces.",
+      "Defenders lead suits the soloist is void in when possible.",
+      "Use trump sparingly when defenders must follow suit anyway."
+    ]
+  },
+  "setback": {
+    "name": "Setback",
+    "rules": [
+      "Partners bid tricks; trump suit comes from highest bid.",
+      "Score for high, low, jack, and game points each hand.",
+      "First team to the target score wins the match."
+    ],
+    "strategyTips": [
+      "Bid conservatively until you know partner's strength signals.",
+      "Capture the jack of trump even when other tricks look lost.",
+      "Track point cards played to judge game-point totals."
+    ]
+  },
+  "all-fours": {
+    "name": "All Fours",
+    "rules": [
+      "Partners sit across; dealer may turn trump or players bid.",
+      "Score for high trump, low trump, jack of trump, and game points.",
+      "Follow suit; win tricks to capture scoring honors."
+    ],
+    "strategyTips": [
+      "Lead trump when you hold both high and low trump honors.",
+      "Protect the jack of trump until you can secure it safely.",
+      "Count point cards taken to estimate game-point totals."
+    ]
+  },
+  "pedro": {
+    "name": "Pedro",
+    "rules": [
+      "Bid to choose trump; five of trump called Pedro scores extra.",
+      "Follow suit; partners combine tricks toward contract total.",
+      "Reach the session target score through successful contracts."
+    ],
+    "strategyTips": [
+      "Bid when you hold Pedro plus strong trump support.",
+      "Lead side-suit aces before trump strips your entries.",
+      "Defenders target Pedro holders with forced trump plays."
+    ]
+  },
+  "five-hundred-rummy": {
+    "name": "Five Hundred Rummy",
+    "rules": [
+      "Deal seven cards each; meld sets and runs to reduce deadwood.",
+      "Draw from stock or discard pile; lay off on existing melds when allowed.",
+      "First to reach five hundred points across hands wins."
+    ],
+    "strategyTips": [
+      "Lay melds early to start scoring and reduce hand risk.",
+      "Watch discard pile for free lay-off opportunities.",
+      "Hold high deadwood only when close to going out in one turn."
+    ]
+  },
+  "hand-and-foot": {
+    "name": "Hand and Foot",
+    "rules": [
+      "Each player has a hand and a hidden foot pile to play through.",
+      "Melds require minimum point totals that rise each round.",
+      "Team that completes required melds and empties both piles wins the deal."
+    ],
+    "strategyTips": [
+      "Open melds quickly so partners can add cards freely.",
+      "Manage wild cards to hit round point thresholds efficiently.",
+      "Pick up the discard pile only when it completes a strong meld."
+    ]
+  },
+  "shanghai-rummy": {
+    "name": "Shanghai Rummy",
+    "rules": [
+      "Ten rounds with different meld contracts each round.",
+      "Buy extra cards when allowed by paying one discard per purchase.",
+      "First to empty hand after meeting the round contract wins the deal."
+    ],
+    "strategyTips": [
+      "Plan purchases early in rounds with tough contracts.",
+      "Lay down immediately once legal to start reducing hand size.",
+      "Track round requirements so you keep needed cards through buys."
+    ]
+  },
+  "liverpool-rummy": {
+    "name": "Liverpool Rummy",
+    "rules": [
+      "Series of deals with contracts requiring specific meld patterns.",
+      "Draw and discard; lay down contract before adding to other melds.",
+      "Lowest total deadwood across all deals wins the game."
+    ],
+    "strategyTips": [
+      "Memorize upcoming contracts to hold flexible cards early.",
+      "Break almost-complete sets only when the contract demands it.",
+      "Lay off on opponents' melds to shrink deadwood late in a deal."
+    ]
+  },
+  "michigan-rummy": {
+    "name": "Michigan Rummy",
+    "rules": [
+      "Play chips on board spaces while melding and taking tricks each round.",
+      "Collect payouts when you capture key cards or complete melds.",
+      "Most chips after all rounds wins the session."
+    ],
+    "strategyTips": [
+      "Place chips on spaces matching cards you hold when affordable.",
+      "Track which bonus cards have already been captured.",
+      "Balance meld speed with trick timing for board payouts."
+    ]
+  },
+  "hollywood-gin": {
+    "name": "Hollywood Gin",
+    "rules": [
+      "Play three simultaneous gin rummy scoresheets at once.",
+      "Each hand updates all three columns with cumulative totals.",
+      "Win the overall game by leading in at least two of three columns."
+    ],
+    "strategyTips": [
+      "Play slightly safer when ahead in two columns already.",
+      "Knock early in columns where opponents are close to gin.",
+      "Track deadwood across sheets—not just the current hand."
+    ]
+  },
+  "oklahoma-gin": {
+    "name": "Oklahoma Gin",
+    "rules": [
+      "First upcard sets the maximum knock value for the hand.",
+      "Form sets and runs; knock when deadwood is at or below the limit.",
+      "Gin scores bonus; undercut rewards the defender."
+    ],
+    "strategyTips": [
+      "Adjust knock timing every hand based on the upcard value.",
+      "A high upcard favors holding out for gin over quick knocks.",
+      "Discard near-knock cards opponents could use to undercut."
+    ]
+  },
+  "tripoley": {
+    "name": "Tripoley",
+    "rules": [
+      "Place markers on board spaces for hearts, queens, and other bonuses.",
+      "Play a round of poker-style hands, then rummy, then hearts-style tricks.",
+      "Collect markers when you win the matching segment."
+    ],
+    "strategyTips": [
+      "Claim board spaces that match cards you hold in multiple segments.",
+      "Save strong hearts for the final trick-taking phase.",
+      "Track which markers opponents still need from visible plays."
+    ]
+  },
+  "tressette": {
+    "name": "Tressette",
+    "rules": [
+      "Partners sit across; no trump suit in classic play.",
+      "Follow suit; highest card of led suit wins unless a three is played.",
+      "Threes are special high cards; team reaching target score wins."
+    ],
+    "strategyTips": [
+      "Lead aces from long suits to pull opposing honors.",
+      "Save threes for tricks opponents expect to win.",
+      "Communicate strength through conventional lead choices."
+    ]
+  },
+  "briscola": {
+    "name": "Briscola",
+    "rules": [
+      "Turn one card to set trump; aces and threes carry highest point values.",
+      "Follow suit is not required; trump beats non-trump always.",
+      "First side to the target score from captured cards wins."
+    ],
+    "strategyTips": [
+      "Lead worthless cards to coax out opposing trump.",
+      "Save aces and threes for tricks you are sure to win.",
+      "Track trump played to judge endgame capture chances."
+    ]
+  },
+  "continents": {
+    "name": "Continents",
+    "rules": [
+      "Each round requires a different meld pattern before you can go out.",
+      "Draw and discard; complete the round requirement then empty your hand.",
+      "Lowest cumulative penalty points after all rounds wins."
+    ],
+    "strategyTips": [
+      "Read the round card early and hoard matching combinations.",
+      "Lay down as soon as legal to start shedding extra cards.",
+      "Discard high penalty cards opponents could lay off on you."
+    ]
+  },
+  "conspiracy": {
+    "name": "Conspiracy",
+    "rules": [
+      "Collect four-of-a-kind sets by trading cards face-down with opponents.",
+      "When you have a set, secretly signal your partner with an agreed gesture.",
+      "Call conspiracy when you spot your partner's signal before others do."
+    ],
+    "strategyTips": [
+      "Design subtle signals that blend with normal table movement.",
+      "Trade away duplicate ranks you are not collecting.",
+      "Watch opponents for accidental repeated gestures."
+    ]
+  },
+  "push": {
+    "name": "Push",
+    "rules": [
+      "Deal a shared layout of stacks; play cards matching rank or suit on top.",
+      "Push a stack to your neighbor when you cannot play legally.",
+      "First to empty their personal pile wins the round."
+    ],
+    "strategyTips": [
+      "Push burdensome stacks toward players with fewer options.",
+      "Hold versatile cards that match multiple visible tops.",
+      "Track stack sizes to spot who is close to winning."
+    ]
+  },
+  "sergeant-major": {
+    "name": "Sergeant Major",
+    "rules": [
+      "Deal sixteen cards each; bid how many tricks you will win.",
+      "Follow suit; highest card of led suit wins unless trump is played.",
+      "Score when your bid exactly matches tricks taken."
+    ],
+    "strategyTips": [
+      "Bid one less than your sure winners when hand looks strong.",
+      "Force opponents to win unwanted tricks with low leads.",
+      "Track exact trick counts as the hand nears its end."
+    ]
+  }
+}

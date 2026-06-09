@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Скільки карт у стандартній колоді?",
+    "correctAnswer": "52",
+    "incorrectAnswers": [
+      "48",
+      "54",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "У грі «Черви» яка карта дає 13 штрафних очок?",
+    "correctAnswer": "Дама пік",
+    "incorrectAnswers": [
+      "Туз черв",
+      "Король бубен",
+      "Дев'ятка треф"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Яка гра відома як «пасьянс» у Solitaire?",
+    "correctAnswer": "Класичний пасьянс Klondike",
+    "incorrectAnswers": [
+      "Рамі",
+      "Брідж",
+      "Пoker"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "У бриджі скільки гравців у команді?",
+    "correctAnswer": "2",
+    "incorrectAnswers": [
+      "3",
+      "4",
+      "1"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Яка масть найвища у більшості ігор «на взятки» без козиря?",
+    "correctAnswer": "Масть, яку поклали першою",
+    "incorrectAnswers": [
+      "Завжди піки",
+      "Завжди червi",
+      "Козир завжди перемагає"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "У «Дурі» (Crazy Eights) яка карта дозволяє змінити масть?",
+    "correctAnswer": "Вісімка",
+    "incorrectAnswers": [
+      "Туз",
+      "Король",
+      "Двійка"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Скільки карт роздають на старт у класичному Рамі для двох гравців?",
+    "correctAnswer": "10",
+    "incorrectAnswers": [
+      "7",
+      "5",
+      "13"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "У грі «Рибалка» (Go Fish) що роблять, коли суперник не має потрібного рангу?",
+    "correctAnswer": "Кажуть «йди лови» і беруть з колоди",
+    "incorrectAnswers": [
+      "Пропускають хід",
+      "Скидають карту",
+      "Міняються ролями"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "У кріббіджі до скількох очок зазвичай грають?",
+    "correctAnswer": "121",
+    "incorrectAnswers": [
+      "100",
+      "150",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Яка фігурна карта часто є «джокером» у багатьох колодах?",
+    "correctAnswer": "Додаткова карта поза чотирма мастями",
+    "incorrectAnswers": [
+      "Туз",
+      "Король",
+      "Валет"
+    ],
+    "category": "Board Games"
+  }
+]

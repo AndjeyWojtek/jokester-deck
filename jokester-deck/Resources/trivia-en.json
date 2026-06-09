@@ -1,0 +1,62 @@
+[
+  {
+    "question": "How many cards are in a standard deck?",
+    "correctAnswer": "52",
+    "incorrectAnswers": ["48", "54", "50"],
+    "category": "Board Games"
+  },
+  {
+    "question": "In Hearts, which card is worth 13 penalty points?",
+    "correctAnswer": "Queen of Spades",
+    "incorrectAnswers": ["Ace of Hearts", "King of Diamonds", "Nine of Clubs"],
+    "category": "Board Games"
+  },
+  {
+    "question": "Which game is the classic one-player \"patience\" game?",
+    "correctAnswer": "Klondike Solitaire",
+    "incorrectAnswers": ["Rummy", "Bridge", "Poker"],
+    "category": "Board Games"
+  },
+  {
+    "question": "In Bridge, how many players are on each partnership team?",
+    "correctAnswer": "2",
+    "incorrectAnswers": ["3", "4", "1"],
+    "category": "Board Games"
+  },
+  {
+    "question": "In most trick-taking games without a trump suit, which suit wins a trick?",
+    "correctAnswer": "The suit that was led",
+    "incorrectAnswers": ["Always Spades", "Always Hearts", "Trump always wins"],
+    "category": "Board Games"
+  },
+  {
+    "question": "In Crazy Eights, which card lets you change the suit?",
+    "correctAnswer": "Eight",
+    "incorrectAnswers": ["Ace", "King", "Two"],
+    "category": "Board Games"
+  },
+  {
+    "question": "How many cards are dealt at the start of classic two-player Rummy?",
+    "correctAnswer": "10",
+    "incorrectAnswers": ["7", "5", "13"],
+    "category": "Board Games"
+  },
+  {
+    "question": "In Go Fish, what happens when the opponent doesn't have the rank you asked for?",
+    "correctAnswer": "You draw a card from the stock",
+    "incorrectAnswers": ["You skip your turn", "You discard a card", "You swap roles"],
+    "category": "Board Games"
+  },
+  {
+    "question": "In Cribbage, what score do players usually play to?",
+    "correctAnswer": "121",
+    "incorrectAnswers": ["100", "150", "50"],
+    "category": "Board Games"
+  },
+  {
+    "question": "What is a joker in many commercial decks?",
+    "correctAnswer": "An extra card outside the four suits",
+    "incorrectAnswers": ["An Ace", "A King", "A Jack"],
+    "category": "Board Games"
+  }
+]

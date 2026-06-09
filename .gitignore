@@ -1,0 +1,96 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Xcode
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.xcscmblueprint
+*.xccheckout
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+Packages/
+# Keep Package.resolved for reproducible builds
+
+# CocoaPods
+Pods/
+*.xcworkspace
+!*.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+!*.xcodeproj/project.xcworkspace/xcshareddata/
+
+# Carthage
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code signing & provisioning
+*.mobileprovision
+*.cer
+*.p12
+*.certSigningRequest
+
+# Secrets & local config
+.env
+.env.*
+*.secret
+secrets.json
+Config/Secrets.swift
+
+# Python (content scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# Editors
+.idea/
+*.swp
+*.swo
+*~
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Test / coverage
+*.gcno
+*.gcda
+*.profdata
+coverage/
+*.lcov
+
+# Archives
+*.xcarchive
+
+# Misc
+*.log
+*.tmp
+*.temp

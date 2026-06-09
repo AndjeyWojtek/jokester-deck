@@ -1,0 +1,102 @@
+[
+  {
+    "question": "כמה קלפים יש בחפיסה סטנדרטית?",
+    "correctAnswer": "52",
+    "incorrectAnswers": [
+      "48",
+      "54",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "במשחק Hearts, איזו קלף שווה 13 נקודות עונש?",
+    "correctAnswer": "מלכת עלה",
+    "incorrectAnswers": [
+      "אס יהלום",
+      "מלך תלתן",
+      "תשע עלה"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "באיזה משחק מסדרים קלפים לפי צבע מ-ACE עד מלך?",
+    "correctAnswer": "סוליטר",
+    "incorrectAnswers": [
+      "רמי",
+      "גו-פиш",
+      "מלחמה"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "במשחק Bridge, כמה שחקנים בכל קבוצה?",
+    "correctAnswer": "2",
+    "incorrectAnswers": [
+      "3",
+      "4",
+      "1"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "ב-Crazy Eights, איזה קלף מאפשר לשנות צבע?",
+    "correctAnswer": "8",
+    "incorrectAnswers": [
+      "אס",
+      "מלך",
+      "2"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "כמה קלפים מחלקים בתחילת רמי קלאסי לשני שחקנים?",
+    "correctAnswer": "10",
+    "incorrectAnswers": [
+      "7",
+      "5",
+      "13"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "ב-Go Fish, מה קורה כשאין ליריב את הדירוג שביקשת?",
+    "correctAnswer": "אומרים 'Go Fish' ולוקחים מהקופה",
+    "incorrectAnswers": [
+      "מדלגים על תור",
+      "זורקים קלף",
+      "מחליפים תפקידים"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "ב-Cribbage, לא כמה נקודות בדרך כלל משחקים?",
+    "correctAnswer": "121",
+    "incorrectAnswers": [
+      "100",
+      "150",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "כמה צבעים יש בחפיסה רגילה?",
+    "correctAnswer": "4",
+    "incorrectAnswers": [
+      "3",
+      "5",
+      "6"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "במשחק War, מה קורה בתיקו?",
+    "correctAnswer": "כל שחקן שם 3 קלפים הפוכים ואחד גלוי",
+    "incorrectAnswers": [
+      "מחלקים מחדש",
+      "מדלגים",
+      "שניהם מפסידים"
+    ],
+    "category": "Board Games"
+  }
+]

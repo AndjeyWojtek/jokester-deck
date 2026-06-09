@@ -1,0 +1,102 @@
+[
+  {
+    "question": "¿Cuántas cartas tiene una baraja estándar?",
+    "correctAnswer": "52",
+    "incorrectAnswers": [
+      "48",
+      "54",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "En Hearts, ¿qué carta vale 13 puntos de penalización?",
+    "correctAnswer": "Reina de picas",
+    "incorrectAnswers": [
+      "As de corazones",
+      "Rey de diamantes",
+      "Nueve de tréboles"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "¿En qué juego se apilan cartas del as al rey por palo?",
+    "correctAnswer": "Solitario",
+    "incorrectAnswers": [
+      "Rummy",
+      "Go Fish",
+      "Guerra"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "En bridge, ¿cuántos jugadores hay por equipo?",
+    "correctAnswer": "2",
+    "incorrectAnswers": [
+      "3",
+      "4",
+      "1"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "En Crazy Eights, ¿qué carta cambia el palo?",
+    "correctAnswer": "El ocho",
+    "incorrectAnswers": [
+      "El as",
+      "El rey",
+      "El dos"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "¿Cuántas cartas se reparten al inicio del rummy clásico para dos?",
+    "correctAnswer": "10",
+    "incorrectAnswers": [
+      "7",
+      "5",
+      "13"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "En Go Fish, ¿qué pasa si el rival no tiene el rango pedido?",
+    "correctAnswer": "Se dice «Go Fish» y se roba del mazo",
+    "incorrectAnswers": [
+      "Se pasa el turno",
+      "Se descarta",
+      "Se intercambian roles"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "¿Hasta cuántos puntos se juega cribbage normalmente?",
+    "correctAnswer": "121",
+    "incorrectAnswers": [
+      "100",
+      "150",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "¿Cuántos palos tiene una baraja común?",
+    "correctAnswer": "4",
+    "incorrectAnswers": [
+      "3",
+      "5",
+      "6"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "En Guerra, ¿qué ocurre en un empate?",
+    "correctAnswer": "Cada uno pone 3 cartas boca abajo y 1 boca arriba",
+    "incorrectAnswers": [
+      "Se reparte de nuevo",
+      "Se salta",
+      "Pierden ambos"
+    ],
+    "category": "Board Games"
+  }
+]

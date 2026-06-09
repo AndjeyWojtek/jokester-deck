@@ -1,0 +1,802 @@
+[
+  {
+    "slug": "blackjack",
+    "emoji": "♠️",
+    "categoryKey": "classic",
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "difficulty": 2
+  },
+  {
+    "slug": "rummy",
+    "emoji": "🃏",
+    "categoryKey": "strategy",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "difficulty": 3
+  },
+  {
+    "slug": "hearts",
+    "emoji": "♥️",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "crazy-eights",
+    "emoji": "♦️",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "difficulty": 1
+  },
+  {
+    "slug": "spades",
+    "emoji": "♣️",
+    "categoryKey": "strategy",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 3
+  },
+  {
+    "slug": "go-fish",
+    "emoji": "🎴",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "difficulty": 1
+  },
+  {
+    "slug": "war",
+    "emoji": "⚔️",
+    "categoryKey": "classic",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "difficulty": 1
+  },
+  {
+    "slug": "snap",
+    "emoji": "👋",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "difficulty": 1
+  },
+  {
+    "slug": "solitaire",
+    "emoji": "🂡",
+    "categoryKey": "classic",
+    "minPlayers": 1,
+    "maxPlayers": 1,
+    "difficulty": 1
+  },
+  {
+    "slug": "gin-rummy",
+    "emoji": "🍸",
+    "categoryKey": "strategy",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "difficulty": 2
+  },
+  {
+    "slug": "euchre",
+    "emoji": "🌟",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "bridge",
+    "emoji": "🌉",
+    "categoryKey": "strategy",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 3
+  },
+  {
+    "slug": "canasta",
+    "emoji": "📦",
+    "categoryKey": "strategy",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "difficulty": 3
+  },
+  {
+    "slug": "old-maid",
+    "emoji": "👵",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "difficulty": 1
+  },
+  {
+    "slug": "golf",
+    "emoji": "⛳",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "difficulty": 1
+  },
+  {
+    "slug": "slapjack",
+    "emoji": "✋",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "difficulty": 1
+  },
+  {
+    "slug": "president",
+    "emoji": "👑",
+    "categoryKey": "strategy",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "difficulty": 2
+  },
+  {
+    "slug": "cheat",
+    "emoji": "🎭",
+    "categoryKey": "family",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "difficulty": 2
+  },
+  {
+    "slug": "whist",
+    "emoji": "🎩",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "pitch",
+    "emoji": "🎯",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "cribbage",
+    "emoji": "🔢",
+    "categoryKey": "classic",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "difficulty": 3
+  },
+  {
+    "slug": "mau-mau",
+    "emoji": "🌀",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "difficulty": 1
+  },
+  {
+    "slug": "egyptian-ratscrew",
+    "emoji": "🐀",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "difficulty": 1
+  },
+  {
+    "slug": "spite-and-malice",
+    "emoji": "🔥",
+    "categoryKey": "strategy",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "difficulty": 2
+  },
+  {
+    "slug": "pinochle",
+    "emoji": "🎺",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 3
+  },
+  {
+    "slug": "belote",
+    "emoji": "🇫🇷",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "skat",
+    "emoji": "🎯",
+    "categoryKey": "strategy",
+    "minPlayers": 3,
+    "maxPlayers": 3,
+    "difficulty": 3
+  },
+  {
+    "slug": "oh-hell",
+    "emoji": "👋",
+    "categoryKey": "trick_taking",
+    "minPlayers": 3,
+    "maxPlayers": 7,
+    "difficulty": 2
+  },
+  {
+    "slug": "knock-rummy",
+    "emoji": "✊",
+    "categoryKey": "strategy",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "contract-rummy",
+    "emoji": "📜",
+    "categoryKey": "strategy",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "difficulty": 3
+  },
+  {
+    "slug": "durak",
+    "emoji": "🛡️",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "difficulty": 2
+  },
+  {
+    "slug": "scopa",
+    "emoji": "🇮🇹",
+    "categoryKey": "classic",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "cassino",
+    "emoji": "🏛️",
+    "categoryKey": "classic",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "speed",
+    "emoji": "⚡",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "difficulty": 1
+  },
+  {
+    "slug": "spit",
+    "emoji": "💨",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "difficulty": 1
+  },
+  {
+    "slug": "concentration",
+    "emoji": "🧠",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "difficulty": 1
+  },
+  {
+    "slug": "memory",
+    "emoji": "💭",
+    "categoryKey": "family",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "difficulty": 1
+  },
+  {
+    "slug": "fan-tan",
+    "emoji": "🌬️",
+    "categoryKey": "family",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "difficulty": 2
+  },
+  {
+    "slug": "kemps",
+    "emoji": "🤝",
+    "categoryKey": "family",
+    "minPlayers": 4,
+    "maxPlayers": 6,
+    "difficulty": 1
+  },
+  {
+    "slug": "nerts",
+    "emoji": "🐝",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "pig",
+    "emoji": "🐷",
+    "categoryKey": "family",
+    "minPlayers": 3,
+    "maxPlayers": 13,
+    "difficulty": 1
+  },
+  {
+    "slug": "authors",
+    "emoji": "📚",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "difficulty": 1
+  },
+  {
+    "slug": "crazy-rummy",
+    "emoji": "🎭",
+    "categoryKey": "strategy",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "difficulty": 2
+  },
+  {
+    "slug": "indian-rummy",
+    "emoji": "🇮🇳",
+    "categoryKey": "strategy",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "difficulty": 3
+  },
+  {
+    "slug": "schnapsen",
+    "emoji": "🇦🇹",
+    "categoryKey": "trick_taking",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "difficulty": 3
+  },
+  {
+    "slug": "thousand",
+    "emoji": "💯",
+    "categoryKey": "strategy",
+    "minPlayers": 3,
+    "maxPlayers": 3,
+    "difficulty": 3
+  },
+  {
+    "slug": "scat",
+    "emoji": "🃏",
+    "categoryKey": "trick_taking",
+    "minPlayers": 3,
+    "maxPlayers": 3,
+    "difficulty": 2
+  },
+  {
+    "slug": "bourre",
+    "emoji": "🎲",
+    "categoryKey": "trick_taking",
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "difficulty": 2
+  },
+  {
+    "slug": "bridge-whist",
+    "emoji": "🌉",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "double-solitaire",
+    "emoji": "🔄",
+    "categoryKey": "classic",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "difficulty": 1
+  },
+  {
+    "slug": "freecell",
+    "emoji": "🆓",
+    "categoryKey": "classic",
+    "minPlayers": 1,
+    "maxPlayers": 1,
+    "difficulty": 1
+  },
+  {
+    "slug": "spider-solitaire",
+    "emoji": "🕷️",
+    "categoryKey": "classic",
+    "minPlayers": 1,
+    "maxPlayers": 1,
+    "difficulty": 2
+  },
+  {
+    "slug": "pyramid-solitaire",
+    "emoji": "🔺",
+    "categoryKey": "classic",
+    "minPlayers": 1,
+    "maxPlayers": 1,
+    "difficulty": 1
+  },
+  {
+    "slug": "clock-solitaire",
+    "emoji": "🕐",
+    "categoryKey": "classic",
+    "minPlayers": 1,
+    "maxPlayers": 1,
+    "difficulty": 1
+  },
+  {
+    "slug": "accordion",
+    "emoji": "📂",
+    "categoryKey": "classic",
+    "minPlayers": 1,
+    "maxPlayers": 1,
+    "difficulty": 2
+  },
+  {
+    "slug": "thirty-one",
+    "emoji": "3️⃣",
+    "categoryKey": "classic",
+    "minPlayers": 2,
+    "maxPlayers": 9,
+    "difficulty": 1
+  },
+  {
+    "slug": "bezique",
+    "emoji": "💎",
+    "categoryKey": "classic",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "difficulty": 3
+  },
+  {
+    "slug": "piquet",
+    "emoji": "🎩",
+    "categoryKey": "classic",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "difficulty": 3
+  },
+  {
+    "slug": "golf-solitaire",
+    "emoji": "🏌️",
+    "categoryKey": "classic",
+    "minPlayers": 1,
+    "maxPlayers": 1,
+    "difficulty": 1
+  },
+  {
+    "slug": "bakers-dozen",
+    "emoji": "🍞",
+    "categoryKey": "classic",
+    "minPlayers": 1,
+    "maxPlayers": 1,
+    "difficulty": 2
+  },
+  {
+    "slug": "spoons",
+    "emoji": "🥄",
+    "categoryKey": "family",
+    "minPlayers": 3,
+    "maxPlayers": 13,
+    "difficulty": 1
+  },
+  {
+    "slug": "switch",
+    "emoji": "🔀",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "difficulty": 1
+  },
+  {
+    "slug": "palace",
+    "emoji": "🏰",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "difficulty": 2
+  },
+  {
+    "slug": "garbage",
+    "emoji": "🗑️",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "difficulty": 1
+  },
+  {
+    "slug": "beggar-my-neighbor",
+    "emoji": "👋",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "difficulty": 1
+  },
+  {
+    "slug": "happy-families",
+    "emoji": "👨‍👩‍👧",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "difficulty": 1
+  },
+  {
+    "slug": "pass-the-card",
+    "emoji": "🔄",
+    "categoryKey": "family",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "difficulty": 1
+  },
+  {
+    "slug": "my-ship-sails",
+    "emoji": "⛵",
+    "categoryKey": "family",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "difficulty": 1
+  },
+  {
+    "slug": "blitz",
+    "emoji": "⚡",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "difficulty": 1
+  },
+  {
+    "slug": "yaniv",
+    "emoji": "🇮🇱",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "difficulty": 2
+  },
+  {
+    "slug": "james-bond",
+    "emoji": "🕵️",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "difficulty": 1
+  },
+  {
+    "slug": "kings-in-the-corner",
+    "emoji": "👑",
+    "categoryKey": "family",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "difficulty": 1
+  },
+  {
+    "slug": "five-hundred",
+    "emoji": "5️⃣",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 3
+  },
+  {
+    "slug": "sheepshead",
+    "emoji": "🐑",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 3
+  },
+  {
+    "slug": "doppelkopf",
+    "emoji": "🎭",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 3
+  },
+  {
+    "slug": "schafkopf",
+    "emoji": "♣️",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 3
+  },
+  {
+    "slug": "bid-whist",
+    "emoji": "📣",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 3
+  },
+  {
+    "slug": "jass",
+    "emoji": "🇨🇭",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "klaberjass",
+    "emoji": "🎴",
+    "categoryKey": "trick_taking",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "difficulty": 2
+  },
+  {
+    "slug": "twenty-eight",
+    "emoji": "2️⃣8️⃣",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 3
+  },
+  {
+    "slug": "pluck",
+    "emoji": "🪶",
+    "categoryKey": "trick_taking",
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "difficulty": 2
+  },
+  {
+    "slug": "misere",
+    "emoji": "🌙",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "napoleon",
+    "emoji": "🎖️",
+    "categoryKey": "trick_taking",
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "difficulty": 2
+  },
+  {
+    "slug": "setback",
+    "emoji": "⏪",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "all-fours",
+    "emoji": "4️⃣",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "pedro",
+    "emoji": "🎯",
+    "categoryKey": "trick_taking",
+    "minPlayers": 4,
+    "maxPlayers": 6,
+    "difficulty": 2
+  },
+  {
+    "slug": "five-hundred-rummy",
+    "emoji": "📊",
+    "categoryKey": "strategy",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "difficulty": 2
+  },
+  {
+    "slug": "hand-and-foot",
+    "emoji": "🖐️",
+    "categoryKey": "strategy",
+    "minPlayers": 4,
+    "maxPlayers": 6,
+    "difficulty": 3
+  },
+  {
+    "slug": "shanghai-rummy",
+    "emoji": "🌆",
+    "categoryKey": "strategy",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "difficulty": 3
+  },
+  {
+    "slug": "liverpool-rummy",
+    "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "categoryKey": "strategy",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "difficulty": 3
+  },
+  {
+    "slug": "michigan-rummy",
+    "emoji": "🏛️",
+    "categoryKey": "strategy",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "difficulty": 2
+  },
+  {
+    "slug": "hollywood-gin",
+    "emoji": "🎬",
+    "categoryKey": "strategy",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "difficulty": 2
+  },
+  {
+    "slug": "oklahoma-gin",
+    "emoji": "🤠",
+    "categoryKey": "strategy",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "tripoley",
+    "emoji": "🎪",
+    "categoryKey": "strategy",
+    "minPlayers": 2,
+    "maxPlayers": 9,
+    "difficulty": 2
+  },
+  {
+    "slug": "tressette",
+    "emoji": "🇮🇹",
+    "categoryKey": "strategy",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "briscola",
+    "emoji": "🃏",
+    "categoryKey": "strategy",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "difficulty": 2
+  },
+  {
+    "slug": "continents",
+    "emoji": "🌍",
+    "categoryKey": "strategy",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "difficulty": 2
+  },
+  {
+    "slug": "conspiracy",
+    "emoji": "🤫",
+    "categoryKey": "strategy",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "difficulty": 2
+  },
+  {
+    "slug": "push",
+    "emoji": "👊",
+    "categoryKey": "strategy",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "difficulty": 2
+  },
+  {
+    "slug": "sergeant-major",
+    "emoji": "⭐",
+    "categoryKey": "strategy",
+    "minPlayers": 3,
+    "maxPlayers": 3,
+    "difficulty": 2
+  }
+]

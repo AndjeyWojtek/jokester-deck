@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Combien de cartes dans un jeu standard ?",
+    "correctAnswer": "52",
+    "incorrectAnswers": [
+      "48",
+      "54",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Dans Hearts, quelle carte vaut 13 points de pénalité ?",
+    "correctAnswer": "Dame de pique",
+    "incorrectAnswers": [
+      "As de cœur",
+      "Roi de carreau",
+      "Neuf de trèfle"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Dans quel jeu construit-on des piles de l'as au roi par couleur ?",
+    "correctAnswer": "Solitaire",
+    "incorrectAnswers": [
+      "Rami",
+      "Go Fish",
+      "Bataille"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Au bridge, combien de joueurs par équipe ?",
+    "correctAnswer": "2",
+    "incorrectAnswers": [
+      "3",
+      "4",
+      "1"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Dans Crazy Eights, quelle carte change la couleur ?",
+    "correctAnswer": "Le huit",
+    "incorrectAnswers": [
+      "L'as",
+      "Le roi",
+      "Le deux"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Au rami classique à deux, combien de cartes au départ ?",
+    "correctAnswer": "10",
+    "incorrectAnswers": [
+      "7",
+      "5",
+      "13"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "À Go Fish, que faire si l'adversaire n'a pas le rang demandé ?",
+    "correctAnswer": "Dire « Go Fish » et piocher",
+    "incorrectAnswers": [
+      "Passer son tour",
+      "Défausser",
+      "Échanger les rôles"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Au cribbage, on joue généralement jusqu'à combien de points ?",
+    "correctAnswer": "121",
+    "incorrectAnswers": [
+      "100",
+      "150",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Combien de couleurs dans un jeu ordinaire ?",
+    "correctAnswer": "4",
+    "incorrectAnswers": [
+      "3",
+      "5",
+      "6"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "À la bataille, que se passe-t-il en cas d'égalité ?",
+    "correctAnswer": "Chacun pose 3 cartes face cachée puis 1 face visible",
+    "incorrectAnswers": [
+      "On redistribue",
+      "On passe",
+      "Les deux perdent"
+    ],
+    "category": "Board Games"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "標準的なトランプ1組は何枚？",
+    "correctAnswer": "52",
+    "incorrectAnswers": [
+      "48",
+      "54",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "ハーツで13ペナルティ点になるカードは？",
+    "correctAnswer": "スペードのQ",
+    "incorrectAnswers": [
+      "ハートのA",
+      "ダイヤのK",
+      "クラブの9"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "スートごとにAからKまで積むゲームは？",
+    "correctAnswer": "ソリティア",
+    "incorrectAnswers": [
+      "ラミー",
+      "ゴーフィッシュ",
+      "ウォー"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "ブリッジで1チームの人数は？",
+    "correctAnswer": "2",
+    "incorrectAnswers": [
+      "3",
+      "4",
+      "1"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "クレイジー8でスートを変えられるカードは？",
+    "correctAnswer": "8",
+    "incorrectAnswers": [
+      "A",
+      "K",
+      "2"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "クラシックラミー2人戦の初期配布枚数は？",
+    "correctAnswer": "10",
+    "incorrectAnswers": [
+      "7",
+      "5",
+      "13"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "ゴーフィッシュで相手が求めたランクを持っていないときは？",
+    "correctAnswer": "「Go Fish」と言って山札から引く",
+    "incorrectAnswers": [
+      "パスする",
+      "捨てる",
+      "役割を入れ替える"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "クリベッジは通常何点まで？",
+    "correctAnswer": "121",
+    "incorrectAnswers": [
+      "100",
+      "150",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "普通のトランプのスート数は？",
+    "correctAnswer": "4",
+    "incorrectAnswers": [
+      "3",
+      "5",
+      "6"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "ウォーで同点のときは？",
+    "correctAnswer": "各プレイヤーが裏向き3枚と表1枚を出す",
+    "incorrectAnswers": [
+      "再配布",
+      "スキップ",
+      "両方負け"
+    ],
+    "category": "Board Games"
+  }
+]

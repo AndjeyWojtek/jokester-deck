@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Wie viele Karten hat ein Standardspiel?",
+    "correctAnswer": "52",
+    "incorrectAnswers": [
+      "48",
+      "54",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Welche Karte bringt in Hearts 13 Minuspunkte?",
+    "correctAnswer": "Pik-Dame",
+    "incorrectAnswers": [
+      "Herz-Ass",
+      "Karo-König",
+      "Kreuz-Neun"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "In welchem Spiel baut man Stapel vom Ass bis König pro Farbe?",
+    "correctAnswer": "Solitaire",
+    "incorrectAnswers": [
+      "Rommé",
+      "Go Fish",
+      "Krieg"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Wie viele Spieler hat ein Team beim Bridge?",
+    "correctAnswer": "2",
+    "incorrectAnswers": [
+      "3",
+      "4",
+      "1"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Welche Karte ändert die Farbe bei Crazy Eights?",
+    "correctAnswer": "Die Acht",
+    "incorrectAnswers": [
+      "Das Ass",
+      "Der König",
+      "Die Zwei"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Wie viele Karten erhält man zu Beginn beim klassischen Rommé zu zweit?",
+    "correctAnswer": "10",
+    "incorrectAnswers": [
+      "7",
+      "5",
+      "13"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Was passiert bei Go Fish, wenn der Gegner den Rang nicht hat?",
+    "correctAnswer": "Man sagt «Go Fish» und zieht vom Stapel",
+    "incorrectAnswers": [
+      "Man passt",
+      "Man wirft ab",
+      "Man tauscht Rollen"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Bis wie viele Punkte spielt man üblicherweise Cribbage?",
+    "correctAnswer": "121",
+    "incorrectAnswers": [
+      "100",
+      "150",
+      "50"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Wie viele Farben hat ein normales Kartenspiel?",
+    "correctAnswer": "4",
+    "incorrectAnswers": [
+      "3",
+      "5",
+      "6"
+    ],
+    "category": "Board Games"
+  },
+  {
+    "question": "Was passiert bei Gleichstand in War?",
+    "correctAnswer": "Jeder legt 3 verdeckte und 1 offene Karte",
+    "incorrectAnswers": [
+      "Neu mischen",
+      "Aussetzen",
+      "Beide verlieren"
+    ],
+    "category": "Board Games"
+  }
+]
