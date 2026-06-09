@@ -170,9 +170,76 @@ No demo account required. Launch the app and explore:
 4. Collection tab — view XP and mastery progress
 5. Settings (globe icon on Home) — switch language
 
+SCREENSHOTS / MARKETING ASSETS
+Some App Store screenshots use stylized 3D marketing backgrounds (jester motif, gems, confetti) around real in-app UI captured from the app. These decorative elements are presentation framing only and do not represent playable casino mechanics.
+
+The app does NOT include slot machines, betting, chips, jackpots, or any wagering loop. Screenshots that show the Home, Codex, Collection, Demo, and Trivia tabs reflect actual app screens. XP, level gates, and lock icons are educational progression only — not money or prizes.
+
+If any screenshot asset appears overly "casino styled," please evaluate the in-app experience via the Codex, Demo, and Trivia tabs — all content is instructional text for offline/home play with physical cards.
+
 CONTACT
 support@jokester.deck
 ```
+
+---
+
+## 8. Screenshots (App Store Connect)
+
+Upload stylized marketing frames that show **real in-app UI**. Do **not** upload slot-reel or other casino-mechanic imagery — the app has no such features, and those assets conflict with reviewer notes (Guideline 2.3.1).
+
+### iPhone (6.7" display — 1290 × 2796 px)
+
+Upload in this order:
+
+| # | Screen | Asset status | Notes |
+|---|--------|--------------|-------|
+| 1 | **Codex** (Game Library) | ✅ Ready | Search bar, filters, game list — real UI with jester/gem marketing frame |
+| 2 | **Collection** | ✅ Ready | XP bar, unlock banner, mastery grid — real UI |
+| 3 | **Demo** | 🔲 Create | Replace slot-reel art. Same purple/gold frame; show 5 dealt cards + rules text |
+| 4 | **Trivia** | 🔲 Create | Replace slot-reel art. Same frame; show quiz question + answer choices |
+| 5 | **Home** (optional) | 🔲 Create or skip | Joker card hero, Daily Wisdom, stats — capture iPhone Home if you want a fifth UI slide |
+
+**Do not upload:**
+
+| Asset | Reason |
+|-------|--------|
+| Slot machine reel (spinning purple reel) | Feature does not exist in the app — misleading |
+| Jester portrait with no UI | Weak for App Store; optional for social ads only, not Connect |
+
+### iPad (13" display — 2064 × 2752 px)
+
+Upload in this order:
+
+| # | Screen | Asset status | Notes |
+|---|--------|--------------|-------|
+| 1 | **Home** | ⚠️ Crop first | Real UI — remove or crop the bottle overlapping the screen edge |
+| 2 | **Collection** | ✅ Ready | Full mastery grid — real UI |
+| 3 | **Codex** | 🔲 Create | iPad Game Library in same marketing style (if not yet designed) |
+| 4 | **Demo** | 🔲 Create | iPad Demo tab, same frame style as iPhone #3 |
+| 5 | **Trivia** | 🔲 Create | iPad Trivia tab, same frame style as iPhone #4 |
+
+### Designer brief (Demo + Trivia replacements)
+
+When replacing the two slot-reel iPhone images (and any missing iPad slides), keep the existing look:
+
+- Dark purple diamond background (`#1A0A2E` area), subtle confetti/gems **around** the device — not covering UI
+- Gold accents matching in-app theme (`#C9A84C`)
+- Device at a slight angle; status bar clean (full battery, no personal info)
+- **No** slot reels, coins, chips, roulette, dice, or "jackpot" visuals
+- UI must remain fully readable — nothing overlapping the screen (see iPad Home crop note)
+
+**Demo frame content:** 5 sample cards on the table, game title (e.g. Blackjack), rules list, strategy tips section visible.
+
+**Trivia frame content:** Question text, 4 answer buttons, progress indicator (e.g. "3/10").
+
+### Capture source (for designer mockups)
+
+If recreating frames, capture raw UI from Simulator (`File → Save Screen` or `Cmd+S`):
+
+- **iPhone:** iPhone 17 Pro Max (6.7")
+- **iPad:** iPad Pro 13-inch (M4)
+
+Navigate to each tab with representative content (a few games unlocked, one mastery star on Blackjack, etc.) before handing off to design.
 
 ---
 
